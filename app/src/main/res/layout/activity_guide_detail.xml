@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.daath.travelApp.GuideDetailActivity">
+
+    <ScrollView
+        android:id="@+id/guideDetail_scrollView"
+        android:background="@color/wholeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:elevation="3dp"
+                android:background="#fff"
+                android:paddingBottom="2dp"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:background="@drawable/default_cover"
+                    android:adjustViewBounds="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <!--<com.example.daath.travelApp.customView.CircleImageView-->
+                        <!--android:id="@+id/guideDetail_userImage"-->
+                        <!--android:src="@drawable/default_user_image"-->
+                        <!--android:adjustViewBounds="true"-->
+                        <!--android:layout_marginTop="60dp"-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="70dp" />-->
+                    <TextView
+                        android:id="@+id/guideDetail_chatHim"
+                        android:text="和他联系"
+                        android:textColor="#d9a378"
+                        android:textSize="15sp"
+                        android:layout_gravity="right"
+                        android:gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="80dp"
+                        android:layout_height="35dp" />
+
+                    <ImageView
+                        android:id="@+id/guideDetail_userImage"
+                        android:src="@drawable/default_user_image_round"
+                        android:adjustViewBounds="true"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="70dp" />
+
+                    <TextView
+                        android:id="@+id/guideDetail_userName"
+                        android:text="用户名"
+                        android:textSize="18sp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+                    <TextView
+                        android:text="认证：xx网专业导游"
+                        android:textSize="12sp"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:background="#fff"
+                android:elevation="2dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="match_parent"
+                android:minHeight="80dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:text="简介"
+                    android:layout_marginTop="5dp"
+                    android:paddingLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <View
+                    android:layout_height="1px"
+                    android:background="#797c78"
+                    android:layout_width="match_parent" />
+
+                <TextView
+                    android:id="@+id/guideDetail_userDescription"
+                    android:text="描述"
+                    android:textSize="17sp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="15dp"
+                    android:paddingLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:background="#fff"
+                android:elevation="2dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:text="点评"
+                    android:textSize="20sp"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <View
+                    android:layout_height="1px"
+                    android:background="#797c78"
+                    android:layout_width="match_parent" />
+
+                <fragment
+                    android:id="@+id/guideDetail_commentList"
+                    android:name="com.example.daath.travelApp.CommentListFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <!--悬浮的图片button-->
+    <ImageView
+        android:id="@+id/guideDetail_commentDisplay"
+        android:src="@drawable/comment_display"
+        android:layout_alignParentBottom="true"
+        android:adjustViewBounds="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="50dp"
+        android:layout_width="35dp"
+        android:layout_height="35dp" />
+
+    <!--底部评论框，默认隐藏-->
+    <LinearLayout
+        android:id="@+id/guideDetail_commentFrame"
+        android:background="@drawable/border_display"
+        android:paddingBottom="8dp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/guideDetail_commentBack"
+            android:src="@drawable/comment_back"
+            android:adjustViewBounds="true"
+            android:layout_marginLeft="3dp"
+            android:paddingTop="10dp"
+            android:layout_width="15dp"
+            android:layout_height="40dp" />
+
+
+        <EditText
+            android:id="@+id/guideDetail_commentInput"
+            android:textSize="15sp"
+            android:hint="please input"
+            android:textColorHighlight="#426a93"
+            android:layout_marginLeft="8dp"
+            android:gravity="bottom"
+            android:layout_weight="6"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:id="@+id/guideDetail_commentSend"
+            android:src="@drawable/send"
+            android:adjustViewBounds="true"
+            android:paddingTop="10dp"
+            android:paddingRight="15dp"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="40dp" />
+    </LinearLayout>
+</RelativeLayout>

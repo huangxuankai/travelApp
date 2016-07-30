@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/indicator_arrow.png",
+        "source": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/build/intermediates/bundles/debug/res/drawable-hdpi-v4/indicator_arrow.png"
+    },
+    {
+        "merged": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/default_ptr_flip.png",
+        "source": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/build/intermediates/bundles/debug/res/drawable-hdpi-v4/default_ptr_flip.png"
+    },
+    {
+        "merged": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/default_ptr_rotate.png",
+        "source": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/build/intermediates/bundles/debug/res/drawable-hdpi-v4/default_ptr_rotate.png"
+    }
+]

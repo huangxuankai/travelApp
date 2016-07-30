@@ -1,0 +1,32 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "23.0.2"
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 22
+       	versionCode 2016040522
+        versionName "2.4.11 Stable"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    sourceSets {
+        main {
+            res.srcDirs = ['src/main/res']
+            assets.srcDirs = ['src/main/assets']
+            manifest.srcFile 'src/main/AndroidManifest.xml'
+            jni.srcDirs = []
+            jniLibs.srcDirs = ['src/main/libs']
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'src/main/libs', include: ['*.jar'])
+       }

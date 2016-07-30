@@ -1,0 +1,3957 @@
+[
+    {
+        "outputFile": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 131,
+                    "endColumn": 24,
+                    "endOffset": 4322
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 131,
+                        "endColumn": 24,
+                        "endOffset": 4322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4327,
+                    "endLine": 261,
+                    "endColumn": 12,
+                    "endOffset": 9213
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 4327,
+                        "endLine": 261,
+                        "endColumn": 12,
+                        "endOffset": 9213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 9218,
+                    "endColumn": 60,
+                    "endOffset": 9274
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 9218,
+                        "endColumn": 60,
+                        "endOffset": 9274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 9279,
+                    "endColumn": 53,
+                    "endOffset": 9328
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 9279,
+                        "endColumn": 53,
+                        "endOffset": 9328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 9333,
+                    "endColumn": 44,
+                    "endOffset": 9373
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 9333,
+                        "endColumn": 44,
+                        "endOffset": 9373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 9378,
+                    "endColumn": 45,
+                    "endOffset": 9419
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 9378,
+                        "endColumn": 45,
+                        "endOffset": 9419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 9424,
+                    "endColumn": 56,
+                    "endOffset": 9476
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 4,
+                        "startOffset": 9424,
+                        "endColumn": 56,
+                        "endOffset": 9476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 9481,
+                    "endColumn": 48,
+                    "endOffset": 9525
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 4,
+                        "startOffset": 9481,
+                        "endColumn": 48,
+                        "endOffset": 9525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 9530,
+                    "endColumn": 45,
+                    "endOffset": 9571
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 9530,
+                        "endColumn": 45,
+                        "endOffset": 9571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 9576,
+                    "endColumn": 54,
+                    "endOffset": 9626
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 269,
+                        "startColumn": 4,
+                        "startOffset": 9576,
+                        "endColumn": 54,
+                        "endOffset": 9626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 9631,
+                    "endColumn": 46,
+                    "endOffset": 9673
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 4,
+                        "startOffset": 9631,
+                        "endColumn": 46,
+                        "endOffset": 9673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 9678,
+                    "endColumn": 52,
+                    "endOffset": 9726
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 9678,
+                        "endColumn": 52,
+                        "endOffset": 9726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 9731,
+                    "endColumn": 48,
+                    "endOffset": 9775
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 9731,
+                        "endColumn": 48,
+                        "endOffset": 9775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 9780,
+                    "endColumn": 53,
+                    "endOffset": 9829
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 4,
+                        "startOffset": 9780,
+                        "endColumn": 53,
+                        "endOffset": 9829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 9834,
+                    "endColumn": 52,
+                    "endOffset": 9882
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 4,
+                        "startOffset": 9834,
+                        "endColumn": 52,
+                        "endOffset": 9882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 9887,
+                    "endColumn": 47,
+                    "endOffset": 9930
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 9887,
+                        "endColumn": 47,
+                        "endOffset": 9930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 9935,
+                    "endColumn": 55,
+                    "endOffset": 9986
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 9935,
+                        "endColumn": 55,
+                        "endOffset": 9986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 9991,
+                    "endColumn": 76,
+                    "endOffset": 10063
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 4,
+                        "startOffset": 9991,
+                        "endColumn": 76,
+                        "endOffset": 10063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 10068,
+                    "endColumn": 57,
+                    "endOffset": 10121
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 10068,
+                        "endColumn": 57,
+                        "endOffset": 10121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 10126,
+                    "endColumn": 56,
+                    "endOffset": 10178
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 10126,
+                        "endColumn": 56,
+                        "endOffset": 10178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 10183,
+                    "endColumn": 47,
+                    "endOffset": 10226
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 4,
+                        "startOffset": 10183,
+                        "endColumn": 47,
+                        "endOffset": 10226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 10231,
+                    "endColumn": 48,
+                    "endOffset": 10275
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 10231,
+                        "endColumn": 48,
+                        "endOffset": 10275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 11622,
+                    "endColumn": 61,
+                    "endOffset": 11679
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 11622,
+                        "endColumn": 61,
+                        "endOffset": 11679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 11684,
+                    "endColumn": 61,
+                    "endOffset": 11741
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 4,
+                        "startOffset": 11684,
+                        "endColumn": 61,
+                        "endOffset": 11741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 11746,
+                    "endColumn": 64,
+                    "endOffset": 11806
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 288,
+                        "startColumn": 4,
+                        "startOffset": 11746,
+                        "endColumn": 64,
+                        "endOffset": 11806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 11811,
+                    "endColumn": 41,
+                    "endOffset": 11848
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 4,
+                        "startOffset": 11811,
+                        "endColumn": 41,
+                        "endOffset": 11848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 11853,
+                    "endColumn": 36,
+                    "endOffset": 11885
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 4,
+                        "startOffset": 11853,
+                        "endColumn": 36,
+                        "endOffset": 11885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 11890,
+                    "endColumn": 42,
+                    "endOffset": 11928
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 291,
+                        "startColumn": 4,
+                        "startOffset": 11890,
+                        "endColumn": 42,
+                        "endOffset": 11928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 11933,
+                    "endColumn": 38,
+                    "endOffset": 11967
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 11933,
+                        "endColumn": 38,
+                        "endOffset": 11967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 11972,
+                    "endColumn": 40,
+                    "endOffset": 12008
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 11972,
+                        "endColumn": 40,
+                        "endOffset": 12008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 12013,
+                    "endColumn": 39,
+                    "endOffset": 12048
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 12013,
+                        "endColumn": 39,
+                        "endOffset": 12048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 12053,
+                    "endColumn": 52,
+                    "endOffset": 12101
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 4,
+                        "startOffset": 12053,
+                        "endColumn": 52,
+                        "endOffset": 12101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 12106,
+                    "endColumn": 54,
+                    "endOffset": 12156
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 4,
+                        "startOffset": 12106,
+                        "endColumn": 54,
+                        "endOffset": 12156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 12161,
+                    "endColumn": 51,
+                    "endOffset": 12208
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 297,
+                        "startColumn": 4,
+                        "startOffset": 12161,
+                        "endColumn": 51,
+                        "endOffset": 12208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 12213,
+                    "endColumn": 49,
+                    "endOffset": 12258
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 298,
+                        "startColumn": 4,
+                        "startOffset": 12213,
+                        "endColumn": 49,
+                        "endOffset": 12258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 12263,
+                    "endColumn": 50,
+                    "endOffset": 12309
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 299,
+                        "startColumn": 4,
+                        "startOffset": 12263,
+                        "endColumn": 50,
+                        "endOffset": 12309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 12314,
+                    "endColumn": 40,
+                    "endOffset": 12350
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 300,
+                        "startColumn": 4,
+                        "startOffset": 12314,
+                        "endColumn": 40,
+                        "endOffset": 12350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 12355,
+                    "endColumn": 37,
+                    "endOffset": 12388
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 301,
+                        "startColumn": 4,
+                        "startOffset": 12355,
+                        "endColumn": 37,
+                        "endOffset": 12388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 12393,
+                    "endColumn": 36,
+                    "endOffset": 12425
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 302,
+                        "startColumn": 4,
+                        "startOffset": 12393,
+                        "endColumn": 36,
+                        "endOffset": 12425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 12430,
+                    "endColumn": 35,
+                    "endOffset": 12461
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 303,
+                        "startColumn": 4,
+                        "startOffset": 12430,
+                        "endColumn": 35,
+                        "endOffset": 12461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 12466,
+                    "endColumn": 47,
+                    "endOffset": 12509
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 304,
+                        "startColumn": 4,
+                        "startOffset": 12466,
+                        "endColumn": 47,
+                        "endOffset": 12509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 12514,
+                    "endColumn": 42,
+                    "endOffset": 12552
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 305,
+                        "startColumn": 4,
+                        "startOffset": 12514,
+                        "endColumn": 42,
+                        "endOffset": 12552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 12557,
+                    "endColumn": 44,
+                    "endOffset": 12597
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 306,
+                        "startColumn": 4,
+                        "startOffset": 12557,
+                        "endColumn": 44,
+                        "endOffset": 12597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 12602,
+                    "endColumn": 37,
+                    "endOffset": 12635
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 307,
+                        "startColumn": 4,
+                        "startOffset": 12602,
+                        "endColumn": 37,
+                        "endOffset": 12635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 12640,
+                    "endColumn": 37,
+                    "endOffset": 12673
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 308,
+                        "startColumn": 4,
+                        "startOffset": 12640,
+                        "endColumn": 37,
+                        "endOffset": 12673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 12678,
+                    "endColumn": 37,
+                    "endOffset": 12711
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 309,
+                        "startColumn": 4,
+                        "startOffset": 12678,
+                        "endColumn": 37,
+                        "endOffset": 12711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 12716,
+                    "endColumn": 37,
+                    "endOffset": 12749
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 310,
+                        "startColumn": 4,
+                        "startOffset": 12716,
+                        "endColumn": 37,
+                        "endOffset": 12749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 12754,
+                    "endColumn": 37,
+                    "endOffset": 12787
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 311,
+                        "startColumn": 4,
+                        "startOffset": 12754,
+                        "endColumn": 37,
+                        "endOffset": 12787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 12792,
+                    "endColumn": 37,
+                    "endOffset": 12825
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 312,
+                        "startColumn": 4,
+                        "startOffset": 12792,
+                        "endColumn": 37,
+                        "endOffset": 12825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 12830,
+                    "endColumn": 37,
+                    "endOffset": 12863
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 313,
+                        "startColumn": 4,
+                        "startOffset": 12830,
+                        "endColumn": 37,
+                        "endOffset": 12863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 12868,
+                    "endColumn": 37,
+                    "endOffset": 12901
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 314,
+                        "startColumn": 4,
+                        "startOffset": 12868,
+                        "endColumn": 37,
+                        "endOffset": 12901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 12906,
+                    "endColumn": 37,
+                    "endOffset": 12939
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 315,
+                        "startColumn": 4,
+                        "startOffset": 12906,
+                        "endColumn": 37,
+                        "endOffset": 12939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 12944,
+                    "endColumn": 37,
+                    "endOffset": 12977
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 316,
+                        "startColumn": 4,
+                        "startOffset": 12944,
+                        "endColumn": 37,
+                        "endOffset": 12977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 12982,
+                    "endColumn": 49,
+                    "endOffset": 13027
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 317,
+                        "startColumn": 4,
+                        "startOffset": 12982,
+                        "endColumn": 49,
+                        "endOffset": 13027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 13032,
+                    "endColumn": 38,
+                    "endOffset": 13066
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 318,
+                        "startColumn": 4,
+                        "startOffset": 13032,
+                        "endColumn": 38,
+                        "endOffset": 13066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 13071,
+                    "endColumn": 36,
+                    "endOffset": 13103
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 319,
+                        "startColumn": 4,
+                        "startOffset": 13071,
+                        "endColumn": 36,
+                        "endOffset": 13103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 13108,
+                    "endColumn": 36,
+                    "endOffset": 13140
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 320,
+                        "startColumn": 4,
+                        "startOffset": 13108,
+                        "endColumn": 36,
+                        "endOffset": 13140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 13145,
+                    "endColumn": 36,
+                    "endOffset": 13177
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 321,
+                        "startColumn": 4,
+                        "startOffset": 13145,
+                        "endColumn": 36,
+                        "endOffset": 13177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 13182,
+                    "endColumn": 51,
+                    "endOffset": 13229
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 322,
+                        "startColumn": 4,
+                        "startOffset": 13182,
+                        "endColumn": 51,
+                        "endOffset": 13229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 13234,
+                    "endColumn": 35,
+                    "endOffset": 13265
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 323,
+                        "startColumn": 4,
+                        "startOffset": 13234,
+                        "endColumn": 35,
+                        "endOffset": 13265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 13270,
+                    "endColumn": 35,
+                    "endOffset": 13301
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 324,
+                        "startColumn": 4,
+                        "startOffset": 13270,
+                        "endColumn": 35,
+                        "endOffset": 13301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 13306,
+                    "endColumn": 37,
+                    "endOffset": 13339
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 325,
+                        "startColumn": 4,
+                        "startOffset": 13306,
+                        "endColumn": 37,
+                        "endOffset": 13339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 13344,
+                    "endColumn": 40,
+                    "endOffset": 13380
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 326,
+                        "startColumn": 4,
+                        "startOffset": 13344,
+                        "endColumn": 40,
+                        "endOffset": 13380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 13385,
+                    "endColumn": 46,
+                    "endOffset": 13427
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 327,
+                        "startColumn": 4,
+                        "startOffset": 13385,
+                        "endColumn": 46,
+                        "endOffset": 13427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 13432,
+                    "endColumn": 40,
+                    "endOffset": 13468
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 328,
+                        "startColumn": 4,
+                        "startOffset": 13432,
+                        "endColumn": 40,
+                        "endOffset": 13468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 13473,
+                    "endColumn": 44,
+                    "endOffset": 13513
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 329,
+                        "startColumn": 4,
+                        "startOffset": 13473,
+                        "endColumn": 44,
+                        "endOffset": 13513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 13518,
+                    "endColumn": 37,
+                    "endOffset": 13551
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 330,
+                        "startColumn": 4,
+                        "startOffset": 13518,
+                        "endColumn": 37,
+                        "endOffset": 13551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 13556,
+                    "endColumn": 36,
+                    "endOffset": 13588
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 331,
+                        "startColumn": 4,
+                        "startOffset": 13556,
+                        "endColumn": 36,
+                        "endOffset": 13588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 13593,
+                    "endColumn": 43,
+                    "endOffset": 13632
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 332,
+                        "startColumn": 4,
+                        "startOffset": 13593,
+                        "endColumn": 43,
+                        "endOffset": 13632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 13637,
+                    "endColumn": 36,
+                    "endOffset": 13669
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 333,
+                        "startColumn": 4,
+                        "startOffset": 13637,
+                        "endColumn": 36,
+                        "endOffset": 13669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 13674,
+                    "endColumn": 37,
+                    "endOffset": 13707
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 334,
+                        "startColumn": 4,
+                        "startOffset": 13674,
+                        "endColumn": 37,
+                        "endOffset": 13707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 13712,
+                    "endColumn": 44,
+                    "endOffset": 13752
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 335,
+                        "startColumn": 4,
+                        "startOffset": 13712,
+                        "endColumn": 44,
+                        "endOffset": 13752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 13757,
+                    "endColumn": 35,
+                    "endOffset": 13788
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 336,
+                        "startColumn": 4,
+                        "startOffset": 13757,
+                        "endColumn": 35,
+                        "endOffset": 13788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 13793,
+                    "endColumn": 46,
+                    "endOffset": 13835
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 337,
+                        "startColumn": 4,
+                        "startOffset": 13793,
+                        "endColumn": 46,
+                        "endOffset": 13835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 13840,
+                    "endColumn": 52,
+                    "endOffset": 13888
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 338,
+                        "startColumn": 4,
+                        "startOffset": 13840,
+                        "endColumn": 52,
+                        "endOffset": 13888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 13893,
+                    "endColumn": 39,
+                    "endOffset": 13928
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 339,
+                        "startColumn": 4,
+                        "startOffset": 13893,
+                        "endColumn": 39,
+                        "endOffset": 13928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 13933,
+                    "endColumn": 61,
+                    "endOffset": 13990
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 340,
+                        "startColumn": 4,
+                        "startOffset": 13933,
+                        "endColumn": 61,
+                        "endOffset": 13990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 13995,
+                    "endColumn": 69,
+                    "endOffset": 14060
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 341,
+                        "startColumn": 4,
+                        "startOffset": 13995,
+                        "endColumn": 69,
+                        "endOffset": 14060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 14065,
+                    "endColumn": 70,
+                    "endOffset": 14131
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 4,
+                        "startOffset": 14065,
+                        "endColumn": 70,
+                        "endOffset": 14131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 14136,
+                    "endColumn": 49,
+                    "endOffset": 14181
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 343,
+                        "startColumn": 4,
+                        "startOffset": 14136,
+                        "endColumn": 49,
+                        "endOffset": 14181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 14186,
+                    "endColumn": 47,
+                    "endOffset": 14229
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 4,
+                        "startOffset": 14186,
+                        "endColumn": 47,
+                        "endOffset": 14229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 14234,
+                    "endColumn": 54,
+                    "endOffset": 14284
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 345,
+                        "startColumn": 4,
+                        "startOffset": 14234,
+                        "endColumn": 54,
+                        "endOffset": 14284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 14289,
+                    "endColumn": 56,
+                    "endOffset": 14341
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 346,
+                        "startColumn": 4,
+                        "startOffset": 14289,
+                        "endColumn": 56,
+                        "endOffset": 14341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 14346,
+                    "endColumn": 54,
+                    "endOffset": 14396
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 347,
+                        "startColumn": 4,
+                        "startOffset": 14346,
+                        "endColumn": 54,
+                        "endOffset": 14396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 14401,
+                    "endColumn": 51,
+                    "endOffset": 14448
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 348,
+                        "startColumn": 4,
+                        "startOffset": 14401,
+                        "endColumn": 51,
+                        "endOffset": 14448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 14453,
+                    "endColumn": 71,
+                    "endOffset": 14520
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 349,
+                        "startColumn": 4,
+                        "startOffset": 14453,
+                        "endColumn": 71,
+                        "endOffset": 14520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 14525,
+                    "endColumn": 74,
+                    "endOffset": 14595
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 350,
+                        "startColumn": 4,
+                        "startOffset": 14525,
+                        "endColumn": 74,
+                        "endOffset": 14595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 14600,
+                    "endColumn": 78,
+                    "endOffset": 14674
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 351,
+                        "startColumn": 4,
+                        "startOffset": 14600,
+                        "endColumn": 78,
+                        "endOffset": 14674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 14679,
+                    "endColumn": 71,
+                    "endOffset": 14746
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 352,
+                        "startColumn": 4,
+                        "startOffset": 14679,
+                        "endColumn": 71,
+                        "endOffset": 14746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 14751,
+                    "endColumn": 71,
+                    "endOffset": 14818
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 353,
+                        "startColumn": 4,
+                        "startOffset": 14751,
+                        "endColumn": 71,
+                        "endOffset": 14818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 14823,
+                    "endColumn": 69,
+                    "endOffset": 14888
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 354,
+                        "startColumn": 4,
+                        "startOffset": 14823,
+                        "endColumn": 69,
+                        "endOffset": 14888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 14893,
+                    "endColumn": 70,
+                    "endOffset": 14959
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 355,
+                        "startColumn": 4,
+                        "startOffset": 14893,
+                        "endColumn": 70,
+                        "endOffset": 14959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 14964,
+                    "endColumn": 66,
+                    "endOffset": 15026
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 356,
+                        "startColumn": 4,
+                        "startOffset": 14964,
+                        "endColumn": 66,
+                        "endOffset": 15026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 15031,
+                    "endColumn": 73,
+                    "endOffset": 15100
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 357,
+                        "startColumn": 4,
+                        "startOffset": 15031,
+                        "endColumn": 73,
+                        "endOffset": 15100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 15105,
+                    "endColumn": 68,
+                    "endOffset": 15169
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 358,
+                        "startColumn": 4,
+                        "startOffset": 15105,
+                        "endColumn": 68,
+                        "endOffset": 15169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 15174,
+                    "endColumn": 62,
+                    "endOffset": 15232
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 359,
+                        "startColumn": 4,
+                        "startOffset": 15174,
+                        "endColumn": 62,
+                        "endOffset": 15232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 15237,
+                    "endColumn": 79,
+                    "endOffset": 15312
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 360,
+                        "startColumn": 4,
+                        "startOffset": 15237,
+                        "endColumn": 79,
+                        "endOffset": 15312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 15317,
+                    "endColumn": 70,
+                    "endOffset": 15383
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 361,
+                        "startColumn": 4,
+                        "startOffset": 15317,
+                        "endColumn": 70,
+                        "endOffset": 15383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 15388,
+                    "endColumn": 70,
+                    "endOffset": 15454
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 362,
+                        "startColumn": 4,
+                        "startOffset": 15388,
+                        "endColumn": 70,
+                        "endOffset": 15454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 15459,
+                    "endColumn": 66,
+                    "endOffset": 15521
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 363,
+                        "startColumn": 4,
+                        "startOffset": 15459,
+                        "endColumn": 66,
+                        "endOffset": 15521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 15526,
+                    "endColumn": 68,
+                    "endOffset": 15590
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 364,
+                        "startColumn": 4,
+                        "startOffset": 15526,
+                        "endColumn": 68,
+                        "endOffset": 15590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 15595,
+                    "endColumn": 73,
+                    "endOffset": 15664
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 365,
+                        "startColumn": 4,
+                        "startOffset": 15595,
+                        "endColumn": 73,
+                        "endOffset": 15664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 15669,
+                    "endColumn": 43,
+                    "endOffset": 15708
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 366,
+                        "startColumn": 4,
+                        "startOffset": 15669,
+                        "endColumn": 43,
+                        "endOffset": 15708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 15713,
+                    "endColumn": 59,
+                    "endOffset": 15768
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 367,
+                        "startColumn": 4,
+                        "startOffset": 15713,
+                        "endColumn": 59,
+                        "endOffset": 15768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 15773,
+                    "endColumn": 61,
+                    "endOffset": 15830
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 368,
+                        "startColumn": 4,
+                        "startOffset": 15773,
+                        "endColumn": 61,
+                        "endOffset": 15830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 15835,
+                    "endColumn": 43,
+                    "endOffset": 15874
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 369,
+                        "startColumn": 4,
+                        "startOffset": 15835,
+                        "endColumn": 43,
+                        "endOffset": 15874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 15879,
+                    "endColumn": 47,
+                    "endOffset": 15922
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 370,
+                        "startColumn": 4,
+                        "startOffset": 15879,
+                        "endColumn": 47,
+                        "endOffset": 15922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 15927,
+                    "endColumn": 60,
+                    "endOffset": 15983
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 371,
+                        "startColumn": 4,
+                        "startOffset": 15927,
+                        "endColumn": 60,
+                        "endOffset": 15983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 15988,
+                    "endColumn": 62,
+                    "endOffset": 16046
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 372,
+                        "startColumn": 4,
+                        "startOffset": 15988,
+                        "endColumn": 62,
+                        "endOffset": 16046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 16051,
+                    "endColumn": 43,
+                    "endOffset": 16090
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 373,
+                        "startColumn": 4,
+                        "startOffset": 16051,
+                        "endColumn": 43,
+                        "endOffset": 16090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 16095,
+                    "endColumn": 80,
+                    "endOffset": 16171
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 374,
+                        "startColumn": 4,
+                        "startOffset": 16095,
+                        "endColumn": 80,
+                        "endOffset": 16171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 16176,
+                    "endColumn": 80,
+                    "endOffset": 16252
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 375,
+                        "startColumn": 4,
+                        "startOffset": 16176,
+                        "endColumn": 80,
+                        "endOffset": 16252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 16257,
+                    "endColumn": 71,
+                    "endOffset": 16324
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 376,
+                        "startColumn": 4,
+                        "startOffset": 16257,
+                        "endColumn": 71,
+                        "endOffset": 16324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 16329,
+                    "endColumn": 88,
+                    "endOffset": 16413
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 377,
+                        "startColumn": 4,
+                        "startOffset": 16329,
+                        "endColumn": 88,
+                        "endOffset": 16413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 16418,
+                    "endColumn": 87,
+                    "endOffset": 16501
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 378,
+                        "startColumn": 4,
+                        "startOffset": 16418,
+                        "endColumn": 87,
+                        "endOffset": 16501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 16506,
+                    "endColumn": 77,
+                    "endOffset": 16579
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 379,
+                        "startColumn": 4,
+                        "startOffset": 16506,
+                        "endColumn": 77,
+                        "endOffset": 16579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 16584,
+                    "endColumn": 80,
+                    "endOffset": 16660
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 380,
+                        "startColumn": 4,
+                        "startOffset": 16584,
+                        "endColumn": 80,
+                        "endOffset": 16660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 16665,
+                    "endColumn": 85,
+                    "endOffset": 16746
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 381,
+                        "startColumn": 4,
+                        "startOffset": 16665,
+                        "endColumn": 85,
+                        "endOffset": 16746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 16751,
+                    "endColumn": 60,
+                    "endOffset": 16807
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 382,
+                        "startColumn": 4,
+                        "startOffset": 16751,
+                        "endColumn": 60,
+                        "endOffset": 16807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 16812,
+                    "endColumn": 53,
+                    "endOffset": 16861
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 383,
+                        "startColumn": 4,
+                        "startOffset": 16812,
+                        "endColumn": 53,
+                        "endOffset": 16861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 16866,
+                    "endColumn": 51,
+                    "endOffset": 16913
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 384,
+                        "startColumn": 4,
+                        "startOffset": 16866,
+                        "endColumn": 51,
+                        "endOffset": 16913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 16918,
+                    "endColumn": 65,
+                    "endOffset": 16979
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 385,
+                        "startColumn": 4,
+                        "startOffset": 16918,
+                        "endColumn": 65,
+                        "endOffset": 16979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 16984,
+                    "endColumn": 64,
+                    "endOffset": 17044
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 386,
+                        "startColumn": 4,
+                        "startOffset": 16984,
+                        "endColumn": 64,
+                        "endOffset": 17044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 17049,
+                    "endColumn": 59,
+                    "endOffset": 17104
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 387,
+                        "startColumn": 4,
+                        "startOffset": 17049,
+                        "endColumn": 59,
+                        "endOffset": 17104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 17109,
+                    "endColumn": 61,
+                    "endOffset": 17166
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 388,
+                        "startColumn": 4,
+                        "startOffset": 17109,
+                        "endColumn": 61,
+                        "endOffset": 17166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 17171,
+                    "endColumn": 54,
+                    "endOffset": 17221
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 389,
+                        "startColumn": 4,
+                        "startOffset": 17171,
+                        "endColumn": 54,
+                        "endOffset": 17221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 17226,
+                    "endColumn": 49,
+                    "endOffset": 17271
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 390,
+                        "startColumn": 4,
+                        "startOffset": 17226,
+                        "endColumn": 49,
+                        "endOffset": 17271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 17276,
+                    "endColumn": 44,
+                    "endOffset": 17316
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 391,
+                        "startColumn": 4,
+                        "startOffset": 17276,
+                        "endColumn": 44,
+                        "endOffset": 17316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 17321,
+                    "endColumn": 48,
+                    "endOffset": 17365
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 392,
+                        "startColumn": 4,
+                        "startOffset": 17321,
+                        "endColumn": 48,
+                        "endOffset": 17365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 17370,
+                    "endColumn": 60,
+                    "endOffset": 17426
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 393,
+                        "startColumn": 4,
+                        "startOffset": 17370,
+                        "endColumn": 60,
+                        "endOffset": 17426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 17431,
+                    "endColumn": 57,
+                    "endOffset": 17484
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 394,
+                        "startColumn": 4,
+                        "startOffset": 17431,
+                        "endColumn": 57,
+                        "endOffset": 17484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 17489,
+                    "endColumn": 57,
+                    "endOffset": 17542
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 395,
+                        "startColumn": 4,
+                        "startOffset": 17489,
+                        "endColumn": 57,
+                        "endOffset": 17542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 17547,
+                    "endColumn": 60,
+                    "endOffset": 17603
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 396,
+                        "startColumn": 4,
+                        "startOffset": 17547,
+                        "endColumn": 60,
+                        "endOffset": 17603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 17608,
+                    "endColumn": 61,
+                    "endOffset": 17665
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 397,
+                        "startColumn": 4,
+                        "startOffset": 17608,
+                        "endColumn": 61,
+                        "endOffset": 17665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 17670,
+                    "endColumn": 57,
+                    "endOffset": 17723
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 398,
+                        "startColumn": 4,
+                        "startOffset": 17670,
+                        "endColumn": 57,
+                        "endOffset": 17723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 17728,
+                    "endColumn": 60,
+                    "endOffset": 17784
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 399,
+                        "startColumn": 4,
+                        "startOffset": 17728,
+                        "endColumn": 60,
+                        "endOffset": 17784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 17789,
+                    "endColumn": 57,
+                    "endOffset": 17842
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 400,
+                        "startColumn": 4,
+                        "startOffset": 17789,
+                        "endColumn": 57,
+                        "endOffset": 17842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 17847,
+                    "endColumn": 38,
+                    "endOffset": 17881
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 401,
+                        "startColumn": 4,
+                        "startOffset": 17847,
+                        "endColumn": 38,
+                        "endOffset": 17881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 17886,
+                    "endColumn": 51,
+                    "endOffset": 17933
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 402,
+                        "startColumn": 4,
+                        "startOffset": 17886,
+                        "endColumn": 51,
+                        "endOffset": 17933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 17938,
+                    "endColumn": 58,
+                    "endOffset": 17992
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 403,
+                        "startColumn": 4,
+                        "startOffset": 17938,
+                        "endColumn": 58,
+                        "endOffset": 17992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 17997,
+                    "endColumn": 51,
+                    "endOffset": 18044
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 404,
+                        "startColumn": 4,
+                        "startOffset": 17997,
+                        "endColumn": 51,
+                        "endOffset": 18044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 18049,
+                    "endColumn": 56,
+                    "endOffset": 18101
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 405,
+                        "startColumn": 4,
+                        "startOffset": 18049,
+                        "endColumn": 56,
+                        "endOffset": 18101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 18106,
+                    "endColumn": 63,
+                    "endOffset": 18165
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 406,
+                        "startColumn": 4,
+                        "startOffset": 18106,
+                        "endColumn": 63,
+                        "endOffset": 18165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 18170,
+                    "endColumn": 68,
+                    "endOffset": 18234
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 407,
+                        "startColumn": 4,
+                        "startOffset": 18170,
+                        "endColumn": 68,
+                        "endOffset": 18234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 18239,
+                    "endColumn": 59,
+                    "endOffset": 18294
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 408,
+                        "startColumn": 4,
+                        "startOffset": 18239,
+                        "endColumn": 59,
+                        "endOffset": 18294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 18299,
+                    "endColumn": 57,
+                    "endOffset": 18352
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 409,
+                        "startColumn": 4,
+                        "startOffset": 18299,
+                        "endColumn": 57,
+                        "endOffset": 18352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 18357,
+                    "endColumn": 57,
+                    "endOffset": 18410
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 410,
+                        "startColumn": 4,
+                        "startOffset": 18357,
+                        "endColumn": 57,
+                        "endOffset": 18410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 18415,
+                    "endColumn": 58,
+                    "endOffset": 18469
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 411,
+                        "startColumn": 4,
+                        "startOffset": 18415,
+                        "endColumn": 58,
+                        "endOffset": 18469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 18474,
+                    "endColumn": 69,
+                    "endOffset": 18539
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 412,
+                        "startColumn": 4,
+                        "startOffset": 18474,
+                        "endColumn": 69,
+                        "endOffset": 18539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 18544,
+                    "endColumn": 59,
+                    "endOffset": 18599
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 413,
+                        "startColumn": 4,
+                        "startOffset": 18544,
+                        "endColumn": 59,
+                        "endOffset": 18599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 18604,
+                    "endColumn": 65,
+                    "endOffset": 18665
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 414,
+                        "startColumn": 4,
+                        "startOffset": 18604,
+                        "endColumn": 65,
+                        "endOffset": 18665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 18670,
+                    "endColumn": 74,
+                    "endOffset": 18740
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 415,
+                        "startColumn": 4,
+                        "startOffset": 18670,
+                        "endColumn": 74,
+                        "endOffset": 18740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 18745,
+                    "endColumn": 55,
+                    "endOffset": 18796
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 416,
+                        "startColumn": 4,
+                        "startOffset": 18745,
+                        "endColumn": 55,
+                        "endOffset": 18796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 18801,
+                    "endColumn": 66,
+                    "endOffset": 18863
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 417,
+                        "startColumn": 4,
+                        "startOffset": 18801,
+                        "endColumn": 66,
+                        "endOffset": 18863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 18868,
+                    "endColumn": 77,
+                    "endOffset": 18941
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 418,
+                        "startColumn": 4,
+                        "startOffset": 18868,
+                        "endColumn": 77,
+                        "endOffset": 18941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 18946,
+                    "endColumn": 64,
+                    "endOffset": 19006
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 419,
+                        "startColumn": 4,
+                        "startOffset": 18946,
+                        "endColumn": 64,
+                        "endOffset": 19006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 19011,
+                    "endColumn": 48,
+                    "endOffset": 19055
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 420,
+                        "startColumn": 4,
+                        "startOffset": 19011,
+                        "endColumn": 48,
+                        "endOffset": 19055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 19060,
+                    "endColumn": 47,
+                    "endOffset": 19103
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 421,
+                        "startColumn": 4,
+                        "startOffset": 19060,
+                        "endColumn": 47,
+                        "endOffset": 19103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 19108,
+                    "endColumn": 50,
+                    "endOffset": 19154
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 422,
+                        "startColumn": 4,
+                        "startOffset": 19108,
+                        "endColumn": 50,
+                        "endOffset": 19154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 19159,
+                    "endColumn": 48,
+                    "endOffset": 19203
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 423,
+                        "startColumn": 4,
+                        "startOffset": 19159,
+                        "endColumn": 48,
+                        "endOffset": 19203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 19208,
+                    "endColumn": 64,
+                    "endOffset": 19268
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 424,
+                        "startColumn": 4,
+                        "startOffset": 19208,
+                        "endColumn": 64,
+                        "endOffset": 19268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 19273,
+                    "endColumn": 64,
+                    "endOffset": 19333
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 425,
+                        "startColumn": 4,
+                        "startOffset": 19273,
+                        "endColumn": 64,
+                        "endOffset": 19333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 19338,
+                    "endColumn": 59,
+                    "endOffset": 19393
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 426,
+                        "startColumn": 4,
+                        "startOffset": 19338,
+                        "endColumn": 59,
+                        "endOffset": 19393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 19398,
+                    "endColumn": 57,
+                    "endOffset": 19451
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 427,
+                        "startColumn": 4,
+                        "startOffset": 19398,
+                        "endColumn": 57,
+                        "endOffset": 19451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 19456,
+                    "endColumn": 61,
+                    "endOffset": 19513
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 428,
+                        "startColumn": 4,
+                        "startOffset": 19456,
+                        "endColumn": 61,
+                        "endOffset": 19513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 19518,
+                    "endColumn": 56,
+                    "endOffset": 19570
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 429,
+                        "startColumn": 4,
+                        "startOffset": 19518,
+                        "endColumn": 56,
+                        "endOffset": 19570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 19575,
+                    "endColumn": 44,
+                    "endOffset": 19615
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 430,
+                        "startColumn": 4,
+                        "startOffset": 19575,
+                        "endColumn": 44,
+                        "endOffset": 19615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 19620,
+                    "endColumn": 75,
+                    "endOffset": 19691
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 431,
+                        "startColumn": 4,
+                        "startOffset": 19620,
+                        "endColumn": 75,
+                        "endOffset": 19691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 19696,
+                    "endColumn": 51,
+                    "endOffset": 19743
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 432,
+                        "startColumn": 4,
+                        "startOffset": 19696,
+                        "endColumn": 51,
+                        "endOffset": 19743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 19748,
+                    "endColumn": 60,
+                    "endOffset": 19804
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 433,
+                        "startColumn": 4,
+                        "startOffset": 19748,
+                        "endColumn": 60,
+                        "endOffset": 19804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 19809,
+                    "endColumn": 60,
+                    "endOffset": 19865
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 434,
+                        "startColumn": 4,
+                        "startOffset": 19809,
+                        "endColumn": 60,
+                        "endOffset": 19865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 19870,
+                    "endColumn": 68,
+                    "endOffset": 19934
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 435,
+                        "startColumn": 4,
+                        "startOffset": 19870,
+                        "endColumn": 68,
+                        "endOffset": 19934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 19939,
+                    "endColumn": 63,
+                    "endOffset": 19998
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 436,
+                        "startColumn": 4,
+                        "startOffset": 19939,
+                        "endColumn": 63,
+                        "endOffset": 19998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 20003,
+                    "endColumn": 64,
+                    "endOffset": 20063
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 437,
+                        "startColumn": 4,
+                        "startOffset": 20003,
+                        "endColumn": 64,
+                        "endOffset": 20063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 20068,
+                    "endColumn": 73,
+                    "endOffset": 20137
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 438,
+                        "startColumn": 4,
+                        "startOffset": 20068,
+                        "endColumn": 73,
+                        "endOffset": 20137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 20142,
+                    "endColumn": 77,
+                    "endOffset": 20215
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 439,
+                        "startColumn": 4,
+                        "startOffset": 20142,
+                        "endColumn": 77,
+                        "endOffset": 20215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 20220,
+                    "endColumn": 46,
+                    "endOffset": 20262
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 440,
+                        "startColumn": 4,
+                        "startOffset": 20220,
+                        "endColumn": 46,
+                        "endOffset": 20262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 20267,
+                    "endColumn": 49,
+                    "endOffset": 20312
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 441,
+                        "startColumn": 4,
+                        "startOffset": 20267,
+                        "endColumn": 49,
+                        "endOffset": 20312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 20317,
+                    "endColumn": 58,
+                    "endOffset": 20371
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 442,
+                        "startColumn": 4,
+                        "startOffset": 20317,
+                        "endColumn": 58,
+                        "endOffset": 20371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 20376,
+                    "endColumn": 53,
+                    "endOffset": 20425
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 443,
+                        "startColumn": 4,
+                        "startOffset": 20376,
+                        "endColumn": 53,
+                        "endOffset": 20425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 20430,
+                    "endColumn": 65,
+                    "endOffset": 20491
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 444,
+                        "startColumn": 4,
+                        "startOffset": 20430,
+                        "endColumn": 65,
+                        "endOffset": 20491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 20496,
+                    "endColumn": 59,
+                    "endOffset": 20551
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 445,
+                        "startColumn": 4,
+                        "startOffset": 20496,
+                        "endColumn": 59,
+                        "endOffset": 20551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 20556,
+                    "endColumn": 61,
+                    "endOffset": 20613
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 446,
+                        "startColumn": 4,
+                        "startOffset": 20556,
+                        "endColumn": 61,
+                        "endOffset": 20613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 20618,
+                    "endColumn": 50,
+                    "endOffset": 20664
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 447,
+                        "startColumn": 4,
+                        "startOffset": 20618,
+                        "endColumn": 50,
+                        "endOffset": 20664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 20669,
+                    "endColumn": 50,
+                    "endOffset": 20715
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 448,
+                        "startColumn": 4,
+                        "startOffset": 20669,
+                        "endColumn": 50,
+                        "endOffset": 20715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 20720,
+                    "endColumn": 49,
+                    "endOffset": 20765
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 449,
+                        "startColumn": 4,
+                        "startOffset": 20720,
+                        "endColumn": 49,
+                        "endOffset": 20765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 20770,
+                    "endColumn": 62,
+                    "endOffset": 20828
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 450,
+                        "startColumn": 4,
+                        "startOffset": 20770,
+                        "endColumn": 62,
+                        "endOffset": 20828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 20833,
+                    "endColumn": 42,
+                    "endOffset": 20871
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 451,
+                        "startColumn": 4,
+                        "startOffset": 20833,
+                        "endColumn": 42,
+                        "endOffset": 20871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 20876,
+                    "endColumn": 36,
+                    "endOffset": 20908
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 452,
+                        "startColumn": 4,
+                        "startOffset": 20876,
+                        "endColumn": 36,
+                        "endOffset": 20908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 20913,
+                    "endColumn": 55,
+                    "endOffset": 20964
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 453,
+                        "startColumn": 4,
+                        "startOffset": 20913,
+                        "endColumn": 55,
+                        "endOffset": 20964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 20969,
+                    "endLine": 462,
+                    "endColumn": 12,
+                    "endOffset": 21595
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 454,
+                        "startColumn": 4,
+                        "startOffset": 20969,
+                        "endLine": 462,
+                        "endColumn": 12,
+                        "endOffset": 21595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 21600,
+                    "endLine": 466,
+                    "endColumn": 12,
+                    "endOffset": 21817
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 463,
+                        "startColumn": 4,
+                        "startOffset": 21600,
+                        "endLine": 466,
+                        "endColumn": 12,
+                        "endOffset": 21817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 21822,
+                    "endLine": 470,
+                    "endColumn": 12,
+                    "endOffset": 22025
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 467,
+                        "startColumn": 4,
+                        "startOffset": 21822,
+                        "endLine": 470,
+                        "endColumn": 12,
+                        "endOffset": 22025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 471,
+                    "startColumn": 4,
+                    "startOffset": 22030,
+                    "endLine": 475,
+                    "endColumn": 12,
+                    "endOffset": 22293
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 471,
+                        "startColumn": 4,
+                        "startOffset": 22030,
+                        "endLine": 475,
+                        "endColumn": 12,
+                        "endOffset": 22293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 22298,
+                    "endLine": 484,
+                    "endColumn": 12,
+                    "endOffset": 22788
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 476,
+                        "startColumn": 4,
+                        "startOffset": 22298,
+                        "endLine": 484,
+                        "endColumn": 12,
+                        "endOffset": 22788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 22793,
+                    "endLine": 487,
+                    "endColumn": 12,
+                    "endOffset": 22871
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 485,
+                        "startColumn": 4,
+                        "startOffset": 22793,
+                        "endLine": 487,
+                        "endColumn": 12,
+                        "endOffset": 22871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 22876,
+                    "endLine": 490,
+                    "endColumn": 12,
+                    "endOffset": 22953
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 488,
+                        "startColumn": 4,
+                        "startOffset": 22876,
+                        "endLine": 490,
+                        "endColumn": 12,
+                        "endOffset": 22953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 22958,
+                    "endLine": 493,
+                    "endColumn": 12,
+                    "endOffset": 23131
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 491,
+                        "startColumn": 4,
+                        "startOffset": 22958,
+                        "endLine": 493,
+                        "endColumn": 12,
+                        "endOffset": 23131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 23136,
+                    "endLine": 496,
+                    "endColumn": 12,
+                    "endOffset": 23214
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 494,
+                        "startColumn": 4,
+                        "startOffset": 23136,
+                        "endLine": 496,
+                        "endColumn": 12,
+                        "endOffset": 23214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 23219,
+                    "endLine": 501,
+                    "endColumn": 12,
+                    "endOffset": 23502
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 497,
+                        "startColumn": 4,
+                        "startOffset": 23219,
+                        "endLine": 501,
+                        "endColumn": 12,
+                        "endOffset": 23502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 23507,
+                    "endLine": 504,
+                    "endColumn": 12,
+                    "endOffset": 23584
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 502,
+                        "startColumn": 4,
+                        "startOffset": 23507,
+                        "endLine": 504,
+                        "endColumn": 12,
+                        "endOffset": 23584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 23589,
+                    "endLine": 512,
+                    "endColumn": 12,
+                    "endOffset": 24046
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 505,
+                        "startColumn": 4,
+                        "startOffset": 23589,
+                        "endLine": 512,
+                        "endColumn": 12,
+                        "endOffset": 24046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 24051,
+                    "endLine": 515,
+                    "endColumn": 12,
+                    "endOffset": 24224
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 513,
+                        "startColumn": 4,
+                        "startOffset": 24051,
+                        "endLine": 515,
+                        "endColumn": 12,
+                        "endOffset": 24224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 24229,
+                    "endLine": 520,
+                    "endColumn": 12,
+                    "endOffset": 24478
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 516,
+                        "startColumn": 4,
+                        "startOffset": 24229,
+                        "endLine": 520,
+                        "endColumn": 12,
+                        "endOffset": 24478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 24483,
+                    "endLine": 523,
+                    "endColumn": 12,
+                    "endOffset": 24655
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 521,
+                        "startColumn": 4,
+                        "startOffset": 24483,
+                        "endLine": 523,
+                        "endColumn": 12,
+                        "endOffset": 24655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 24660,
+                    "endLine": 528,
+                    "endColumn": 12,
+                    "endOffset": 24907
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 524,
+                        "startColumn": 4,
+                        "startOffset": 24660,
+                        "endLine": 528,
+                        "endColumn": 12,
+                        "endOffset": 24907
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.daath.travelApp.MainHomeActivity"
+    android:orientation="vertical">
+    <!--用来放每个Tab的内容-->
+    <FrameLayout
+        android:id="@+id/mainHome_tabContent"
+        android:layout_weight="13"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+
+    <!--tabHost存放的Tab-->
+    <android.support.v4.app.FragmentTabHost
+        android:id="@+id/mainHome_fragmentTabHost"
+        android:background="@color/childLayout"
+        android:paddingBottom="3dp"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <FrameLayout
+            android:id="@+id/mainHome_tabHost"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </android.support.v4.app.FragmentTabHost>
+
+</LinearLayout>

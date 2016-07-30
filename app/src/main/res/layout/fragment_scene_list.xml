@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.daath.travelApp.SceneListFragment"
+    android:orientation="vertical"
+    android:background="@color/wholeLayout">
+
+    <LinearLayout
+        android:background="@color/childLayout"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleHeight"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/sceneList_searchBackHome"
+            android:src="@drawable/search_back_home"
+            android:visibility="gone"
+            android:adjustViewBounds="true"
+            android:layout_marginLeft="15dp"
+            android:layout_width="20dp"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:background="@color/colorEditView"
+            android:gravity="center"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="18dp"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="30dp">
+
+            <ImageView
+                android:src="@drawable/search_image"
+                android:adjustViewBounds="true"
+                android:layout_marginLeft="8dp"
+                android:layout_width="15dp"
+                android:layout_height="match_parent" />
+
+            <EditText
+                android:id="@+id/sceneList_search"
+                android:hint="搜索景区"
+                android:textSize="14sp"
+                android:textCursorDrawable="@drawable/cursor_color"
+                android:singleLine="true"
+                android:imeOptions="actionSearch"
+                android:background="@null"
+                android:gravity="center|left"
+                android:layout_marginLeft="8dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/sceneList_location"
+            android:src="@drawable/location_image_color"
+            android:adjustViewBounds="true"
+            android:layout_marginRight="18dp"
+            android:layout_width="20dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <!--<ListView-->
+        <!--android:id="@+id/fragment_sceneListView"-->
+        <!--android:divider="#00000000"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+    <!--</ListView>-->
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/fragment_sceneListView"
+        android:divider="#00000000"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:smoothScrollbar="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ptr:ptrMode="both">
+    </com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+</LinearLayout>

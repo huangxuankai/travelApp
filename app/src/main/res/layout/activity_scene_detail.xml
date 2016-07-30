@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context="com.example.daath.travelApp.SceneDetailActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <!--<com.handmark.pulltorefresh.library.PullToRefreshScrollView-->
+        <!--android:id="@+id/sceneDetail_scrollView"-->
+        <!--android:background="@color/wholeLayout"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+
+
+    <ScrollView
+        android:id="@+id/sceneDetail_scrollView"
+        android:background="@color/wholeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:background="#fff"
+                android:elevation="2dp"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/sceneDetail_sceneImage"
+                    android:src="@drawable/default_scene_image"
+                    android:adjustViewBounds="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/sceneDetail_sceneName"
+                    android:text="景区名字"
+                    android:textSize="12sp"
+                    android:layout_marginTop="5dp"
+                    android:paddingLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/sceneDetail_sceneDescription"
+                    android:text="景区描述"
+                    android:textSize="15sp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/sceneDetail_commentContentDisplay"
+                android:focusableInTouchMode="true"
+                android:background="#fff"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:text="点评"
+                    android:textSize="20sp"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <View
+                    android:layout_height="1px"
+                    android:background="#797c78"
+                    android:layout_width="match_parent" />
+
+                <fragment
+                    android:id="@+id/sceneDetail_commentList"
+                    android:name="com.example.daath.travelApp.CommentListFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <!--</com.handmark.pulltorefresh.library.PullToRefreshScrollView>-->
+
+    <ImageView
+        android:id="@+id/sceneDetail_commentDisplay"
+        android:src="@drawable/comment_display"
+        android:layout_alignParentBottom="true"
+        android:adjustViewBounds="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="50dp"
+        android:layout_width="35dp"
+        android:layout_height="35dp" />
+
+    <LinearLayout
+        android:id="@+id/sceneDetail_commentFrame"
+        android:background="@drawable/border_display"
+        android:paddingBottom="8dp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/sceneDetail_commentBack"
+            android:src="@drawable/comment_back"
+            android:adjustViewBounds="true"
+            android:layout_marginLeft="3dp"
+            android:paddingTop="10dp"
+            android:layout_width="15dp"
+            android:layout_height="40dp" />
+
+
+        <EditText
+            android:id="@+id/sceneDetail_commentInput"
+            android:textSize="15sp"
+            android:hint="please input"
+            android:textColorHighlight="#426a93"
+            android:layout_marginLeft="8dp"
+            android:gravity="bottom"
+            android:layout_weight="6"
+            android:layout_width="0dp"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:id="@+id/sceneDetail_commentSend"
+            android:src="@drawable/send"
+            android:adjustViewBounds="true"
+            android:paddingTop="10dp"
+            android:paddingRight="15dp"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="40dp" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/rc_group_default_portrait.png",
+        "source": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/rc_group_default_portrait.png"
+    },
+    {
+        "merged": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/rc_default_portrait.png",
+        "source": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/rc_default_portrait.png"
+    },
+    {
+        "merged": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/rc_ic_warning.png",
+        "source": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/rc_ic_warning.png"
+    },
+    {
+        "merged": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/rc_ic_bubble_white.9.png",
+        "source": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/rc_ic_bubble_white.9.png"
+    }
+]

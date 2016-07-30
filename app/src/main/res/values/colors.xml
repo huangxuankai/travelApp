@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#4cc1cc</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColorPrimaryDark">#000000</color>
+
+    <color name="wholeLayout">#f5fbff</color>
+    <color name="childLayout">#ffffff</color>
+    <color name="layoutUnderLine">#d2d2e7</color>
+    <color name="colorTitleWidget">#4898c6</color>
+    <color name="colorEditView">#e7e4e4</color>
+    <color name="colorEditViewHint">#579dbe</color>
+
+    <color name="selectPictureDefault">#eaeded</color>
+    <color name="selectPictureColor">#64c6a2</color>
+</resources>

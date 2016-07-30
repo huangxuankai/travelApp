@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <!--<com.example.daath.travelApp.customView.CircleImageView-->
+            <!--android:id="@+id/fragment_userImage"-->
+            <!--android:adjustViewBounds="true"-->
+            <!--android:src="@drawable/default_user_image"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent" />-->
+        <ImageView
+            android:id="@+id/fragment_userImage"
+            android:adjustViewBounds="true"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/default_user_image_round"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/fragment_userName"
+            android:text="用户名1"
+            android:textSize="15sp"
+            android:textColor="#203b36"
+            android:paddingLeft="10dp"
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+</LinearLayout>

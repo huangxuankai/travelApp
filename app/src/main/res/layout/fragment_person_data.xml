@@ -1,0 +1,317 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5fbff"
+    tools:context="com.example.daath.travelApp.PersonDataFragment"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:elevation="2dp"
+        android:background="@color/childLayout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleHeight"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:text="我"
+            android:textSize="22sp"
+            android:textColor="#4e4e4e"
+            android:background="@color/childLayout"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="40dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/titleHeight" />
+
+        <ImageView
+            android:id="@+id/person_signOut"
+            android:src="@drawable/sign_out"
+            android:adjustViewBounds="true"
+            android:layout_marginRight="10dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp" />
+
+    </LinearLayout>
+
+
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        android:id="@+id/person_scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:elevation="2dp"
+                android:background="#fff"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:orientation="horizontal">
+
+                <!--<com.example.daath.travelApp.customView.CircleImageView-->
+                <!--android:id="@+id/person_userAvatar"-->
+                <!--android:src="@drawable/default_user_image"-->
+                <!--android:adjustViewBounds="true"-->
+                <!--android:layout_marginLeft="10dp"-->
+                <!--android:layout_marginRight="10dp"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="50dp" />-->
+
+                <ImageView
+                    android:id="@+id/person_userAvatar"
+                    android:src="@drawable/default_user_image_round"
+                    android:adjustViewBounds="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp" />
+
+                <TextView
+                    android:id="@+id/person_userName"
+                    android:text="昵称"
+                    android:textSize="20sp"
+                    android:gravity="center|left"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:background="#fff"
+                android:elevation="2dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_marginTop="5dp"
+                    android:paddingBottom="2dp"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:src="@drawable/description_image"
+                        android:adjustViewBounds="true"
+                        android:paddingLeft="10dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="15dp" />
+
+                    <TextView
+                        android:text="简介"
+                        android:paddingLeft="5dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+
+                <View
+                    android:layout_height="2px"
+                    android:background="@color/layoutUnderLine"
+                    android:layout_width="match_parent" />
+
+                <TextView
+                    android:id="@+id/person_userDescription"
+                    android:text="我的自我描述"
+                    android:textSize="17sp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="15dp"
+                    android:paddingLeft="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/person_Data"
+                android:background="#fff"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/data_image"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp" />
+
+                <TextView
+                    android:text="个人资料"
+                    android:textSize="16sp"
+                    android:paddingLeft="10dp"
+                    android:gravity="center|left"
+                    android:layout_weight="12"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp" />
+
+                <ImageView
+                    android:src="@drawable/arrow_image"
+                    android:adjustViewBounds="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="15dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:background="#fff"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="25dp"
+                    android:layout_height="wrap_content" />
+                <View
+                    android:layout_marginLeft="2dp"
+                    android:layout_gravity="right"
+                    android:layout_height="1px"
+                    android:background="@color/layoutUnderLine"
+                    android:layout_width="match_parent" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/person_modifyPassword"
+                android:background="#fff"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/modify_password_image"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp" />
+
+                <TextView
+                    android:text="修改密码"
+                    android:textSize="16sp"
+                    android:paddingLeft="10dp"
+                    android:gravity="center|left"
+                    android:layout_weight="12"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp" />
+
+                <ImageView
+                    android:src="@drawable/arrow_image"
+                    android:adjustViewBounds="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="15dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:background="#fff"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="25dp"
+                    android:layout_height="wrap_content" />
+                <View
+                    android:layout_marginLeft="2dp"
+                    android:layout_gravity="right"
+                    android:layout_height="1px"
+                    android:background="@color/layoutUnderLine"
+                    android:layout_width="match_parent" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/person_authorityApply"
+                android:background="#fff"
+                android:layout_marginBottom="10dp"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/authority_apply_image"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp" />
+
+                <TextView
+                    android:text="权限申请"
+                    android:textSize="16sp"
+                    android:paddingLeft="10dp"
+                    android:gravity="center|left"
+                    android:layout_weight="12"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp" />
+
+                <ImageView
+                    android:src="@drawable/arrow_image"
+                    android:adjustViewBounds="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="15dp" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:background="#fff"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/settings_image"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp" />
+
+                <TextView
+                    android:text="设置"
+                    android:textSize="16sp"
+                    android:paddingLeft="5dp"
+                    android:gravity="center|left"
+                    android:layout_weight="12"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp" />
+
+                <ImageView
+                    android:src="@drawable/arrow_image"
+                    android:adjustViewBounds="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="15dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+</LinearLayout>

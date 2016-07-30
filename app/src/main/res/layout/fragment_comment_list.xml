@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.daath.travelApp.CommentListFragment">
+
+
+    <!--<com.handmark.pulltorefresh.library.PullToRefreshListView-->
+        <!--android:id="@+id/fragment_commentListView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+
+    <!--</com.handmark.pulltorefresh.library.PullToRefreshListView>-->
+
+    <com.example.daath.travelApp.customView.ListViewForScrollView
+        android:id="@+id/fragment_commentListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </com.example.daath.travelApp.customView.ListViewForScrollView>
+</LinearLayout>

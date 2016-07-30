@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/build/intermediates/res/merged/debug/anim/slide_in_from_bottom.xml",
+        "source": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/src/main/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/build/intermediates/res/merged/debug/anim/slide_in_from_top.xml",
+        "source": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/src/main/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/build/intermediates/res/merged/debug/anim/slide_out_to_bottom.xml",
+        "source": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/src/main/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/build/intermediates/res/merged/debug/anim/slide_out_to_top.xml",
+        "source": "/home/daath/AndroidStudioProjects/TravelApp_/PullToRefresh/src/main/res/anim/slide_out_to_top.xml"
+    }
+]

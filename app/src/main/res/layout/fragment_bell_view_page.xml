@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.daath.travelApp.BellViewPageFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/viewPage_bellTabs"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleHeight"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:background="@color/childLayout"
+        app:tabMode="fixed"
+        app:tabIndicatorColor="#369f9e"
+        app:tabSelectedTextColor="#000000"
+        app:tabTextColor="#999999"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPage_bell"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>

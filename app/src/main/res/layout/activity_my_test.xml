@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.daath.travelApp.myTestLayout.MyTestActivity"
+    android:orientation="vertical">
+    <!--<android.support.design.widget.TabLayout-->
+        <!--android:id="@+id/myTest_viewPageTabs"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--app:tabMode="fixed"-->
+        <!--app:tabIndicatorColor="#369f9e"-->
+        <!--app:tabSelectedTextColor="#000000"-->
+        <!--app:tabTextColor="#999999"/>-->
+
+    <!--<android.support.v4.view.ViewPager-->
+        <!--android:id="@+id/myTest_viewPageHome"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+    <!--</android.support.v4.view.ViewPager>-->
+
+    <Button
+        android:id="@+id/test_loadCookie"
+        android:text="拿cookie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/test_sendCookie"
+        android:text="送cookie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

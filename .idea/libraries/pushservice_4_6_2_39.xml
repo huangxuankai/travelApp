@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pushservice-4.6.2.39">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TravelApp/lib/libs/pushservice-4.6.2.39.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

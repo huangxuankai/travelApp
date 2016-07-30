@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.daath.travelApp.HomeActivity"
+    android:background="@drawable/home_background">
+
+    <LinearLayout
+        android:layout_gravity="bottom"
+        android:paddingBottom="50dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/home_signIn"
+            android:text="登  录"
+            android:textSize="20sp"
+            android:textColor="#79688e"
+            android:background="@drawable/button_round_corner"
+            android:layout_marginTop="20dp"
+            android:layout_width="295dp"
+            android:layout_height="45dp" />
+
+        <Button
+            android:id="@+id/home_signUp"
+            android:text="注  册"
+            android:textSize="20sp"
+            android:textColor="#79688e"
+            android:background="@drawable/button_round_corner"
+            android:layout_marginTop="20dp"
+            android:layout_width="295dp"
+            android:layout_height="45dp" />
+
+    </LinearLayout>
+</LinearLayout>

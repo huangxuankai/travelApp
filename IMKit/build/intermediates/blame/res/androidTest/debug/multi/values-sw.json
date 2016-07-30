@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/res/merged/androidTest/debug/values-sw/values-sw.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 77,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 77,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 93,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 93,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 76,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/home/daath/AndroidStudioProjects/TravelApp_/IMKit/build/intermediates/bundles/debug/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 76,
+                        "endOffset": 299
+                    }
+                }
+            }
+        ]
+    }
+]

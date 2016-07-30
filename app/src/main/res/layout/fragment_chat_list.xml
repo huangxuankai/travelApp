@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ChatListFragment">
+
+    <LinearLayout
+        android:elevation="2dp"
+        android:background="@color/childLayout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/titleHeight"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:text="聊天"
+            android:textSize="22sp"
+            android:textColor="#4e4e4e"
+            android:background="@color/childLayout"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="40dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/titleHeight" />
+
+        <ImageView
+            android:id="@+id/chat_bell"
+            android:src="@drawable/tab_bell_color"
+            android:adjustViewBounds="true"
+            android:layout_marginRight="10dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" />
+
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/fragment_chatList"
+        android:name="io.rong.imkit.fragment.ConversationListFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>

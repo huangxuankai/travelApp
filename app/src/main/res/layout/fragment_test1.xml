@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.daath.travelApp.myTestLayout.Test1Fragment"
+    android:orientation="vertical">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_marginTop="100dp"
+        android:textSize="50sp"
+        android:textColor="#628c38"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="功能还在完善中" />
+
+</LinearLayout>

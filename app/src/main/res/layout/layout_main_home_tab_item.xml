@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingTop="10dp">
+
+    <ImageView
+        android:id="@+id/mainHome_tabImage"
+        android:src="@drawable/tab_home_default"
+        android:focusable="false"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
