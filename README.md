@@ -13,7 +13,8 @@
 - 总体来说样子还过得去，不足的地方还是很多的，像Fragment和activity各种乱用了，还有些bug自己也懒修了，特别是在Tabhost的第二个tab，因为嵌套了viewpage，viewpage里面还加了tablayout导致第一次显示居然没有标题了，切换其他tab后回来才显示，没办法时间赶加上自己安卓水到不行，还各种极度厌恶java,看到那代码简直就没激情了。但是觉得还是有些参考价值的，就贡献出来看看。
 
 - app界面：懒得传图了，就给个isux的传送门，有兴趣的朋友去看就好了。
-- http://www.isux.us/demoo/project/145986374889qilu/?time=1469899897294&_wv=131076
+http://www.isux.us/demoo/project/145986374889qilu/?time=1469899897294&_wv=131076
+
 -- by Daath
 
 ------------
